@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453486996 source:c:\users\usuario\desktop\programas code block\programa4.1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
